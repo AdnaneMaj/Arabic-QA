@@ -1,0 +1,9 @@
+name: Arabic_QA_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - transformers
+  - datasets
+  - accelerate
